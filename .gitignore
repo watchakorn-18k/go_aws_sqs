@@ -1,1 +1,3 @@
 .vscode
+consumer/.env
+producer/.env
